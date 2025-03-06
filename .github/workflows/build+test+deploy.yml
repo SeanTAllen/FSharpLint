@@ -15,7 +15,7 @@ on:
       - '**'
 
 env:
-  DOTNET_VERSION: 8.0.400
+  DOTNET_VERSION: 6.0.417
 
 jobs:
   buildAndTest:
